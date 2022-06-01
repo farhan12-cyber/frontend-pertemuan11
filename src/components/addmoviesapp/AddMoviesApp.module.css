@@ -1,0 +1,70 @@
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 2em 0;
+  justify-content: space-evenly;
+}
+
+.form__image{
+  border-radius: 50px;
+}
+
+.Addmoviesapp__right{
+  display: flex;
+  margin: 2em 0;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Addmoviesapp__right h2{
+  margin-left: auto;
+  margin-right: auto;
+  color: #4361ee;
+  margin: 1em;
+}
+
+.Addmoviesapp_notes{
+  margin-bottom: 1rem;
+  font-size: 2.44rem;
+  color: #4361ee;
+}
+
+.form__title{
+  display: flex;
+  margin: 1em;
+  flex-direction: column;
+}
+
+label{
+  color: #4361ee;
+  font-size: 14pt;
+  font-family: perpetua;
+}
+
+.form__teks{
+  margin-top: 0.8em;
+  border: 1px solid #4361ee;
+  border-radius: 7px;
+  height: 3em;
+}
+
+.form__btn{
+  width:8em;
+  height: 4em;
+  color: #fff;
+  background-color: #4361ee;
+  border: 0;
+  padding: 0.5em 0;
+  border-radius: 50px;
+}
+.form__btn2{
+  width:8em;
+  height: 4em;
+  color: #fff;
+  background-color: #e0250c;
+  border: 0;
+  padding: 0.5em 2;
+  margin: 0 3rem;
+  border-radius: 50px;
+}
